@@ -45,9 +45,9 @@ If you are interested in collaborating on a project, have an idea to discuss, or
 
 ## 💡 Fun Facts
 
-- I love reading about [Marketing].
-- In my free time, I enjoy [Programming].
-- I’m a big fan of [Neymar Jr].
+- I love reading about Marketing.
+- In my free time, I enjoy Programming.
+- I’m a big fan of Neymar Jr.
 
 ---
 
