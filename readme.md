@@ -30,10 +30,10 @@ Feel free to explore and reach out if you have any questions or want to collabor
 
 ## 🤝 Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/itzrifatseo)
-- **Twitter:** [Your Twitter](https://twitter.com/itzrifatseo)
-- **Portfolio:** [Your Portfolio](https://itzrifatseo.pages.dev)
-- **Email:** [Your Email](mailto:info.merifat@gmail.com)
+- **LinkedIn:** [RAFAT TALUKDAR](https://www.linkedin.com/in/itzrifatseo)
+- **Twitter:** [RAFAT TALUKDAR](https://twitter.com/itzrifatseo)
+- **Portfolio:** [RAFAT TALUKDAR](https://itzrifatseo.pages.dev)
+- **Email:** [RAFAT TALUKDAR](mailto:info.merifat@gmail.com)
 
 ---
 
